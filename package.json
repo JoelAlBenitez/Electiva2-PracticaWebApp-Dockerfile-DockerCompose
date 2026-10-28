@@ -1,0 +1,13 @@
+{
+    "name": "Hola Mundo con Docker por Joel Benitez",
+    "version": "1.0.0",
+    "description": "Aplicacion de hola mundo con javascript conectada a MySQL paractica 7 de la asignatura DevOps del ITLA",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0",
+        "mysql2": "^3.14.0"
+    }
+}
